@@ -46,9 +46,9 @@ Ce projet permet de **déployer un tunnel SSH via WebSocket** sur Google Cloud R
 | 💰 **Coût** | Pay-per-request (gratuit jusqu'à 2M req/mois) | ✅ |
 
 
-🤝 Contribution
+## 🤝 Contribution
 
-Les contributions sont les bienvenues !
+Les contributions sont les bienvenues ! Toute suggestion d'amélioration est appréciée.
 
 1. Fork le projet
 2. Crée ta branche (git checkout -b feature/AmazingFeature)
@@ -58,33 +58,45 @@ Les contributions sont les bienvenues !
 
 <br/>
 
-📝 Licence
+## 📝 Licence
 
-Distribué sous licence MIT.
+Distribué sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
 
 <br/>
-👨‍💻 Auteur
+
+## 👨‍💻 Auteur
 
 WorldSolution-Bomoko
 
-· Telegram : @GodWinAdm
-· Email: worldsolutiontv@gmail.com
+<p align="left">
+  <a href="https://t.me/GodWinAdm" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@GodWinAdm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:worldsolutiontv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-worldsolutiontv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
-🙏 Remerciements
+## 🙏 Remerciements
 
-· Bomoko - Proxy Bridge original
-· BadVPN - Tunneling UDP/TCP
-· stunnel - Couche TLS/SSL
-· Dropbear - Serveur SSH léger
-· Google Cloud Run - Infrastructure serverless
+Un grand merci à tous les projets et services qui ont rendu ce tunnel possible :
+
+| Projet | Rôle |
+|--------|------|
+| Bomoko (https://github.com/) | Proxy Bridge original |
+| BadVPN (https://github.com/ambrop72/badvpn) | Tunneling UDP/TCP |
+| stunnel (https://www.stunnel.org/) | Couche TLS/SSL |
+| Dropbear (https://matt.ucc.asn.au/dropbear/dropbear.html) | Serveur SSH léger |
+| Google Cloud Run (https://cloud.google.com/run) | Infrastructure serverless |
 
 <br/>
 
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
 <p align="center">
