@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=2E9FFF&center=true&vCenter=true&width=600&lines=⚡+Connexion+sécurisée+et+ultra+rapide;🔒+Tunnel+WebSocket+SSH;☁️+Déploiement+serverless;🌍+Accessible+depuis+n'importe+où" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=2E9FFF&center=true&vCenter=true&width=600&lines=⚡️+Connexion+s%C3%A9curis%C3%A9e+et+ultra+rapide;🔒+Tunnel+WebSocket+SSH;☁️+D%C3%A9ploiement+serverless;🌍+Accessible+depuis+n'importe+o%C3%B9" alt="Typing Animation" />
 </p>
 
 <p align="center">
