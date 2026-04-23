@@ -33,7 +33,9 @@ Ce projet permet de **déployer un tunnel SSH via WebSocket** sur Google Cloud R
 ✅ Auto-scaling selon la charge
 
 <br/>
+
 ## ✨ Fonctionnalités
+
 | Catégorie | Fonctionnalités | Statut |
 |-----------|-----------------|--------|
 | 🚀 **Performance** | BadVPN UDPGW, connexions persistantes | ✅ |
@@ -43,17 +45,6 @@ Ce projet permet de **déployer un tunnel SSH via WebSocket** sur Google Cloud R
 | ⚡ **Scalabilité** | Auto-scaling 0→1000 connexions | ✅ |
 | 💰 **Coût** | Pay-per-request (gratuit jusqu'à 2M req/mois) | ✅ |
 
-<br/>
-⚠️ Limitations Cloud Run
-
-Limite Valeur Contournement
-⏱️ Timeout requête 60 min Reconnexion automatique
-🔗 Connexions simultanées 1000 Load balancing
-💾 Mémoire max 2 GiB Optimisation code
-📊 CPU 2 vCPU Multi-instances
-📦 Taille déploiement 512 MiB Image optimisée
-
-<br/>
 
 🤝 Contribution
 
