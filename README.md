@@ -31,6 +31,27 @@ Ce projet permet de **déployer un tunnel SSH via WebSocket** sur Google Cloud R
 ✅ Établir des connexions sécurisées depuis n'importe où  
 ✅ Bénéficier de l'infrastructure **serverless** de GCP  
 ✅ Auto-scaling selon la charge
+
+👨‍💻 Auteur
+
+WorldSolution-Bomoko
+
+· GitHub: @WorldSolution
+· Email: worldsolutiontv@gmail.com
+
+<br/>
+
+🙏 Remerciements
+
+· Bomoko - Proxy Bridge original
+· BadVPN - Tunneling UDP/TCP
+· stunnel - Couche TLS/SSL
+· Dropbear - Serveur SSH léger
+· Google Cloud Run - Infrastructure serverless
+
+<br/>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
