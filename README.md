@@ -33,9 +33,7 @@ Ce projet permet de **déployer un tunnel SSH via WebSocket** sur Google Cloud R
 ✅ Auto-scaling selon la charge
 
 <br/>
-
 ## ✨ Fonctionnalités
-
 | Catégorie | Fonctionnalités | Statut |
 |-----------|-----------------|--------|
 | 🚀 **Performance** | BadVPN UDPGW, connexions persistantes | ✅ |
