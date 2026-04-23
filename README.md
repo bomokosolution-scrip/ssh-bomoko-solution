@@ -32,11 +32,53 @@ Ce projet permet de **déployer un tunnel SSH via WebSocket** sur Google Cloud R
 ✅ Bénéficier de l'infrastructure **serverless** de GCP  
 ✅ Auto-scaling selon la charge
 
+<br/>
+
+## ✨ Fonctionnalités
+
+| Catégorie | Fonctionnalités | Statut |
+|-----------|-----------------|--------|
+| 🚀 **Performance** | BadVPN UDPGW, connexions persistantes | ✅ |
+| 🔒 **Sécurité** | Stunnel (TLS), Dropbear SSH | ✅ |
+| 🌍 **Compatibilité** | Windows, Linux, macOS, Android, iOS | ✅ |
+| 📊 **Monitoring** | Logs temps réel, métriques Cloud Run | ✅ |
+| ⚡ **Scalabilité** | Auto-scaling 0→1000 connexions | ✅ |
+| 💰 **Coût** | Pay-per-request (gratuit jusqu'à 2M req/mois) | ✅ |
+
+<br/>
+⚠️ Limitations Cloud Run
+
+Limite Valeur Contournement
+⏱️ Timeout requête 60 min Reconnexion automatique
+🔗 Connexions simultanées 1000 Load balancing
+💾 Mémoire max 2 GiB Optimisation code
+📊 CPU 2 vCPU Multi-instances
+📦 Taille déploiement 512 MiB Image optimisée
+
+<br/>
+
+🤝 Contribution
+
+Les contributions sont les bienvenues !
+
+1. Fork le projet
+2. Crée ta branche (git checkout -b feature/AmazingFeature)
+3. Commit tes changements (git commit -m 'Add AmazingFeature')
+4. Push la branche (git push origin feature/AmazingFeature)
+5. Ouvre une Pull Request
+
+<br/>
+
+📝 Licence
+
+Distribué sous licence MIT.
+
+<br/>
 👨‍💻 Auteur
 
 WorldSolution-Bomoko
 
-· GitHub: @WorldSolution
+· Telegram : @GodWinAdm
 · Email: worldsolutiontv@gmail.com
 
 <br/>
